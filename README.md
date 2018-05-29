@@ -1,9 +1,9 @@
 # IntelijConfiguration
 InteliJ IDEA Configuration
 
-How to configure Google styleguide?
+InteliJ version to run plugins:
 
-https://github.com/HPI-Information-Systems/Metanome/wiki/Installing-the-google-styleguide-settings-in-intellij-and-eclipse
+2018.1.4
 
 Plugins:
 
