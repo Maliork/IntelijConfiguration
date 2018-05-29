@@ -1,0 +1,2 @@
+# IntelijConfiguration
+InteliJ IDEA Configuration
